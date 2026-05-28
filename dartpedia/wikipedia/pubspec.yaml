@@ -1,4 +1,4 @@
-name: command_runner
+name: wikipedia
 publish_to: none
 resolution: workspace
 
