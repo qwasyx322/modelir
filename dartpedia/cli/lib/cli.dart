@@ -1,3 +1,3 @@
-int calculate() {
-  return 6 * 7;
-}
+export 'src/logger.dart';
+export 'src/commands/search.dart';
+export 'src/commands/get_article.dart';

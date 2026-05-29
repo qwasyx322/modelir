@@ -1,0 +1,2 @@
+[2026-05-29 14:57:00.641646 - errors] INFO: Application started with arguments: [help] 
+[2026-05-29 14:57:00.655607 - errors] INFO: Application finished 
